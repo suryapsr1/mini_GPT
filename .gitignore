@@ -1,0 +1,9 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.cursor/
+mini_gpt_colab.zip
+data/*.pt
+data/*.txt
